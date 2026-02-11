@@ -1,0 +1,25 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Your data has been encrypted, and we have taken copies of certain sensitive files.\
+This encryption was carried out for financial reasons, and a payment will be required before we can provide the tools needed to restore your data.\
+You will not be able to restore your data without our assistance. We can ensure full recovery if we work together.\
+To show that we are able to restore your files, we can decrypt a few non-critical files at no cost.\
+If we reach an agreement, we will keep all discussions private and delete the data we took.\
+\
+\
+========================== Contact Us ==========================\
+\
+Download Tor Browser from the URL https://www.torproject.org/\
+Then install and open it.\
+Then connect to the URL below and log in with the given credentials.\
+\
+Contact URL: http://nsnhzysbntsqdwpys6mhml33muccsvterxewh5rkbmcab7bg2ttevjqd.onion\
+Client ID: [snip]\
+Initial password: [snip]\
+\
+                    }

