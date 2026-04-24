@@ -1,0 +1,34 @@
+﻿group_name,time_window_start,time_window_end,total_estimated_revenue_usd,confirmed_victims,source_label,notes,log_revenue,Tier,Service_Score,Aggression_Score,Net_Politeness
+gandcrab,2018-01,2019-06,2000000000,50000,GandCrab operators' claim; industry reports,Self-claimed ~$2B over 18 months; predecessor to REvil; retired voluntarily,21.416,3,0.6536,0,0.6536
+lockbit,2020-01,2024-02,500000000,2000,CISA/FBI 2023; NCA Operation Cronos 2024,"$91M from US alone (Jan 2020-May 2023); possibly >$1B over 4 yrs; Operation Cronos found ~$126M in wallets (18-mo window, representing ~20% operator cut)",20.03,1,1.8536,2.351,-0.4973
+cryptowall,2014-04,2016-12,325000000,406887,Cyber Threat Alliance 2015; FBI IC3 2015,$325M (CTA CW3 report); FBI: $18M in damages from 992 US complaints alone,19.599,3,2.6667,0.6667,2
+akira,2023-03,2025-12,244000000,500,FBI/CISA advisory Nov 2025; FBI April 2024,$42M from 250+ victims as of Jan 2024; $244M as of late Sep 2025; FBI 'top five' variant,19.313,2,1.7392,0.628,1.1112
+conti,2019-12,2022-05,180000000,900,Chainalysis 2022; Leaked chats analysis,$180M in 2021 alone; $83.9M traced via leaked chats (Money Over Morals paper),19.008,1,3.3032,1.0289,2.2742
+ryuk,2018-08,2021-Q1,150000000,61,AdvIntel/HYAS 2021; FBI RSA 2020,61 BTC addresses traced; FBI: $61.26M (Feb 2018-Oct 2019),18.826,1,3.0815,1.5407,1.5407
+revil,2019-04,2022-01,123000000,1500,REvil self-claimed 2020; Risky Biz compilation,Self-claimed >$100M in 2020; Kaseya demand $70M; successor of GandCrab,18.628,1,1.9946,0.6293,1.3653
+blackbasta,2022-04,2025-01,107000000,329,Elliptic/Corvus Insurance 2023,90+ paying victims; largest single ransom $9M; Conti offshoot,18.488,1,1.7331,2.6305,-0.8974
+clop,2019-02,2025-12,100000000,600,Chainalysis 2024,>$100M from MOVEit campaign alone in 2023; 44.8% of all ransomware value in June 2023,18.421,1,2.2839,2.6809,-0.3971
+hive,2021-06,2023-01,100000000,1300,FBI/CISA/HHS 2022,"FBI: $100M from 1,300+ victims as of Nov 2022; seized Jan 2023; $130M saved via decryption keys",18.421,1,3.024,2.5446,0.4794
+darkside,2020-08,2021-05,90000000,99,Elliptic 2021,47 paying wallets; Colonial Pipeline $4.4M; avg $1.9M per paying victim,18.315,1,2.6202,0.7077,1.9125
+avaddon,2020-06,2021-06,87000000,2934,AdvIntel 2021,"2,934 decryption keys released at shutdown; est. ~$87M based on avg ransom and payment rates",18.281,2,1.2891,0.8594,0.4297
+alphv,2021-11,2024-03,75000000,1000,FBI advisory 2023; public ransom disclosures,Change Healthcare $22M; Caesars $15M; MGM $100M impact; >1000 victims. Conservative est. based on known large payments.,18.133,1,0.6904,0.8478,-0.1575
+maze,2019-05,2020-11,75000000,330,Analyst1 2021; Chainalysis,Combined Maze/Egregor cartel est. $75M; Maze alone was 3rd most profitable per Chainalysis (behind Ryuk/DoppelPaymer),18.133,1,2.0412,0.1859,1.8553
+darkangels,2022-05,2025-12,75000000,15,Chainalysis 2025; Zscaler 2024,Record $75M single payment in 2024; highly selective targeting,18.133,1,3.0438,2.3988,0.645
+cuba,2019-12,2023-12,60000000,100,FBI/CISA 2022,$43.9M by Dec 2021; $60M+ by Aug 2022; demanded $145M total,17.91,1,3.786,0,3.786
+netwalker,2019-08,2021-01,46000000,305,Chainalysis 2021; McAfee 2020,$25M in 5 months (Mar-Jul 2020); $46M all-time; 305 victims in 27 countries; seized Jan 2021,17.644,2,2.7026,0,2.7026
+doppelpaymer,2019-06,2022-06,42000000,206,Chainalysis 2020; Risky Biz estimate,Chainalysis listed as more profitable than Maze; BitPaymer successor; est. from Chainalysis ranking + known payments,17.553,2,2.8506,1.2762,1.5744
+cryptolocker,2013-09,2014-05,27000000,250000,FBI 2015; Arctic Wolf,$27M (FBI est.); some sources say $20M by Dec 2013; taken down by Operation Tovar May 2014,17.111,3,1.8182,0.404,1.4141
+dharma,2016-11,2025-12,24000000,3000,Risky Biz 2023 compilation,$24M (Nov 2016-Nov 2019); still active via variants; mass-market RaaS,16.994,3,3.4421,0,3.4421
+phobos,2019-05,2024-10,16000000,1000,DOJ 2024; Polish arrest 2026,"$16M from 1,000+ victims; DOJ charges Ptitsyn; average $54K per attack",16.588,3,4.0816,0,4.0816
+locky,2016-02,2017-12,7800000,500000,Google/Chainalysis/UCSD 2017,$7.8M; first to earn $1M/month; decoupled dev from distribution,15.87,3,1.6547,0,1.6547
+cerber,2016-03,2017-12,6900000,150000,Google/Chainalysis/UCSD 2017,$6.9M; $200K/month; RaaS with 40% developer cut; millions of infections,15.747,3,1.7776,0.5278,1.2498
+samsam,2015-12,2018-11,5900000,233,Sophos 2018,$5.9M from 233 paying victims; ~$300K/month; indicted Nov 2018,15.59,2,7.1429,1.4286,5.7143
+wannacry,2017-05,2017-08,143000,200000,Elliptic 2017,$143K total from 345 payments; 200K+ computers in 150 countries; more wiper than ransomware,11.871,3,3.5714,0.5952,2.9762
+torrentlocker,2014-02,2016-12,1000000,570,Google/Chainalysis 2017 estimate,$1M total per Google study; AU/UK/Europe spam targeting,13.82,3,2.39,1.48,0.91
+spora,2017-01,2017-12,800000,5000,Google/Chainalysis 2017,$0.8M per Google study; praised for sophisticated payment portal,13.59,3,1.97,0.61,1.36
+qlocker,2021-04,2021-07,350000,5000,Coveware/security researchers 2021,~$350K earned in days targeting QNAP NAS; 0.01 BTC per victim; short campaign,12.77,3,2.18,0,2.18
+bianlian,2022-07,2025-12,39300000,500,FinCEN 2025,FinCEN 2022-2024 window: ~$39.3M; 119 incidents; exfiltration-only pivot 2023,17.49,2,1.28,1.67,-0.39
+medusa,2023-01,2025-12,23500000,400,FinCEN 2025,FinCEN 2022-2024 window: ~$23.5M from 120 incidents,16.97,2,4.17,1.39,2.78
+royal,2022-09,2024-06,69800000,350,FinCEN 2025; FBI/CISA March 2023,"FinCEN 2022-2024 window: ~$69.8M; FBI: demanded $275M, collected est. $60M+; rebranded to BlackSuit",18.06,1,2.09,0.95,1.14
+bitpaymer,2017-07,2019-12,8040000,50,FBI RSA 2020 (DeCapua),FBI RSA 2020: $8.04M traced; EvilCorp; predecessor to DoppelPaymer,15.9,2,4.58,0.74,3.84
+embargo,2024-05,2025-12,34200000,40,Security Affairs Aug 2025,$34.2M in crypto since April 2024 per blockchain analysis; healthcare-focused,17.35,1,2.69,4.16,-1.47

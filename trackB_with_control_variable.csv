@@ -1,0 +1,48 @@
+group_name,Tier,Victim_Category,Primary_Sector,Victim_Size_Score,Sector_Sensitivity_Score,Victim_Payment_Capacity_Index,Sector_Healthcare,Sector_Education,Sector_Government,Sector_Finance,Sector_Manufacturing,Sector_Technology,Sector_Consumer,Sector_CrossSector,Service_Score,Aggression_Score,Net_Politeness,log_volume,longevity_months
+stop,3,Consumer/Individual,Home Users (Piracy),1,1,1,0,0,0,0,0,0,1,0,3.3014,1.6188,1.6826,13.039,84
+petya,3,Consumer/Individual,General Public/Wiper,1,1,1,0,0,0,0,0,0,1,0,0.3367,0.6734,-0.3367,12.6115,15
+magniber,3,Consumer/Individual,Home Users (Asian region),1,1,1,0,0,0,0,0,0,1,0,2.7275,0.9092,1.8183,10.8198,98
+teslacrypt,3,Consumer/Individual,Gamers,1,1,1,0,0,0,0,0,0,1,0,1.423,0.2,1.223,10.8198,15
+shade,3,Consumer/Individual,General Public (Russia/CIS),1,1,1,0,0,0,0,0,0,1,0,1.5038,0.7519,0.7519,10.309,63
+ctblocker,3,Consumer/SMB,WordPress/Small Business,1.5,1.5,1.5,0,0,0,0,0,0,0,0,1.7647,0.5882,1.1765,9.9035,29
+jigsaw,3,Consumer/Individual,General Public,1,1,1,0,0,0,0,0,0,1,0,1.8349,1.3761,0.4587,9.2104,20
+xorist,3,Consumer/Individual,General Public,1,1,1,0,0,0,0,0,0,1,0,1.1561,0.289,0.8671,9.2104,167
+keranger,3,Consumer/Individual,macOS Users,1,1,1,0,0,0,0,0,0,0,0,2.7211,2.0408,0.6803,8.8538,0
+jaff,2,Consumer/Individual,General Public (Spam),1,1,1,0,0,0,0,0,0,1,0,3.0303,0,3.0303,6.9088,2
+globeimposter,2,SMB,Small Business/Web,2,2,2,0,0,0,0,0,0,0,0,1.4493,1.4493,0,6.9088,112
+play,2,SMB-Enterprise,Government/Finance/Technology,3,4.5,3.75,0,0,1,1,0,1,0,0,2.785,2.785,0,6.8035,42
+ransomhub,1,SMB-Enterprise,Cross-Sector (SMB majority),3,3,3,0,0,0,0,0,0,0,1,1.5995,1.6649,-0.0654,6.6187,14
+qilin,1,Enterprise,Healthcare/Manufacturing,4,4,4,1,0,0,0,1,0,0,0,2.1107,2.1625,-0.0518,6.2166,40
+matrix,3,SMB,Small Business (RDP),2,3,2.5,0,0,0,0,0,0,0,0,1.6484,1.0989,0.5495,6.2166,84
+satan,2,SMB,SMB (RaaS low-barrier),2,2,2,0,0,0,0,0,0,0,0,2.8571,0,2.8571,6.2166,35
+pysa,1,Enterprise,Education/Healthcare,4,4,4,1,1,0,0,0,0,0,0,4.1667,0,4.1667,5.7301,44
+cactus,2,Enterprise,Manufacturing/Technology (VPN),4,4,4,0,0,0,0,1,1,0,0,4.2009,1.3498,2.8511,5.3033,33
+inc,1,Enterprise,Healthcare/Government,4,4.5,4.25,1,0,1,0,0,0,0,0,2.7805,1.9169,0.8636,5.3033,29
+badrabbit,3,Consumer/Individual,Media (Russia/Ukraine),1,1.5,1.25,0,0,0,0,0,0,0,0,0,0,0,5.3033,0
+makop,3,SMB,SMB (Low ransom),2,2,2,0,0,0,0,0,0,0,0,2.7866,1.2449,1.5417,5.3033,71
+8base,2,SMB,SMB (Phobos variant),2,2,2,0,0,0,0,0,0,0,0,3.5671,2.7916,0.7755,5.3033,45
+karakurt,1,Enterprise,Technology/Finance (Data-theft),4,4,4,0,0,0,1,0,1,0,0,1.5155,0.9274,0.5881,5.3033,24
+egregor,1,Enterprise,Retail/Manufacturing/Logistics,4,3.5,3.75,0,0,0,0,1,0,0,0,2.9703,1.9802,0.9901,5.2883,5
+rhysida,2,Enterprise,Healthcare/Education/Government,4,4,4,1,1,1,0,0,0,0,0,2.2069,1.3242,0.8828,5.0173,31
+vicesociety,2,SMB-Enterprise,Education (K-12/Higher Ed),3,3.5,3.25,0,1,0,0,0,0,0,0,3.1088,0,3.1088,4.6151,30
+snatch,3,Enterprise,Enterprise (Safe Mode bypass),4,4,4,0,0,0,0,0,0,0,0,2.1472,1.744,0.4032,4.6151,84
+satana,3,Consumer/Individual,General Public,1,1,1,0,0,0,0,0,0,1,0,3.5503,0,3.5503,4.6151,18
+avoslocker,2,Enterprise,Critical Infrastructure,4,3,3.5,0,0,1,0,0,0,0,0,1.7964,1.1976,0.5988,4.6151,30
+ransomhouse,1,Enterprise,Technology/Finance (Mediator model),4,4,4,0,0,0,1,0,1,0,0,1.2535,1.5489,-0.2954,4.6151,45
+blackbyte,2,Enterprise,Critical Infrastructure (US),4,5,4.5,0,0,1,0,0,0,0,0,2.5518,0.1144,2.4375,4.6151,53
+fog,2,SMB-Enterprise,Education/VPN-exposed,3,3,3,0,1,0,0,0,0,0,0,1.6893,0.8446,0.8446,4.6151,20
+stormous,2,SMB-Enterprise,Cross-Sector (Hacktivist),3,2.5,2.75,0,0,0,0,0,0,0,1,4.6139,3.167,1.4469,4.3944,53
+lorenz,2,SMB,SMB (VoIP/Mitel exploit),2,2,2,0,0,0,0,0,0,0,0,2.4735,1.8484,0.6251,4.1109,32
+ragnarlocker,1,Enterprise,"Cross-Sector (10 sectors, semi-private)",4,3.5,3.75,0,0,0,0,0,0,0,1,3.0392,3.1273,-0.0882,3.9703,46
+blackmatter,1,Enterprise,Critical Infrastructure,4,3,3.5,0,0,1,0,0,0,0,0,2.6951,1.6171,1.078,3.9318,4
+monti,1,Enterprise,Linux/ESXi/Enterprise,4,4,4,0,0,0,0,0,0,0,0,3.3445,1.3378,2.0067,3.9318,42
+mamba,3,Enterprise,Enterprise (Full-disk),4,4,4,0,0,0,0,0,0,0,0,2.3747,0.2639,2.1108,3.9318,63
+knight,3,Consumer/Individual,General Public,1,1,1,0,0,0,0,0,0,1,0,1.766,3.1724,-1.4064,3.9318,6
+babuk,1,Enterprise,Government/Critical Infrastructure,4,4.5,4.25,0,0,1,0,0,0,0,0,2.1645,0.4329,1.7316,3.9318,8
+megacortex,1,Enterprise,Large Enterprise,4,5,4.5,0,0,0,0,0,0,0,0,5.6127,1.0949,4.5178,3.8712,19
+nephilim,2,Enterprise,Large Enterprise (Citrix),4,5,4.5,0,0,0,0,0,0,0,0,1.9651,1.7467,0.2183,3.7136,15
+nokoyawa,2,SMB-Enterprise,SMB-Enterprise (Hive-linked),3,2.5,2.75,0,0,0,0,0,0,0,0,5.0982,2.0548,3.0434,3.434,22
+trigona,2,SMB-Enterprise,Cross-Sector,3,3,3,0,0,0,0,0,0,0,1,5.9893,0.4848,5.5045,3.434,12
+nemty,3,SMB,SMB (RaaS brief),2,2,2,0,0,0,0,0,0,0,0,2.9198,0.959,1.9608,3.434,10
+suncrypt,1,Enterprise,Enterprise (Maze cartel),4,4,4,0,0,0,0,0,0,0,0,0.3805,0.3805,0,3.0445,17
+robinhood,2,Government,Municipal Government,4,4,4,0,0,1,0,0,0,0,0,5.3398,3.3981,1.9417,1.7918,8

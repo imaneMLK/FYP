@@ -1,0 +1,34 @@
+group_name,Tier,Victim_Category,Primary_Sector,Victim_Size_Score,Sector_Sensitivity_Score,Victim_Payment_Capacity_Index,Sector_Healthcare,Sector_Education,Sector_Government,Sector_Finance,Sector_Manufacturing,Sector_Technology,Sector_Consumer,Sector_CrossSector,Service_Score,Aggression_Score,Net_Politeness,log_revenue,total_estimated_revenue_usd
+gandcrab,3,Consumer/Individual,General Public,1,1,1,0,0,0,0,0,0,1,0,0.6536,0,0.6536,21.4164,2000000000
+lockbit,1,Enterprise,Cross-Sector (Critical Infra),4,4,4,0,0,1,0,0,0,0,1,1.8536,2.351,-0.4973,20.0301,500000000
+cryptowall,3,Consumer/Individual,General Public,1,1,1,0,0,0,0,0,0,1,0,2.6667,0.6667,2,19.5993,325000000
+akira,2,SMB-Enterprise,Healthcare/Finance/Education,3,4,3.5,1,1,0,1,0,0,0,0,1.7392,0.628,1.1112,19.3127,244000000
+conti,1,Enterprise,Healthcare/Government/Finance,4,4.5,4.25,1,0,1,1,0,0,0,0,3.3032,1.0289,2.2742,19.0085,180000000
+ryuk,1,Enterprise,Healthcare/Government/Education,4,4.5,4.25,1,1,1,0,0,0,0,0,3.0815,1.5407,1.5407,18.8261,150000000
+revil,1,Enterprise,Cross-Sector (Critical Infra),4,4,4,0,0,1,0,0,0,0,1,1.9946,0.6293,1.3653,18.6277,123000000
+blackbasta,1,Enterprise,Healthcare/Manufacturing,4,4,4,1,0,0,0,1,0,0,0,1.7331,2.6305,-0.8974,18.4883,107000000
+clop,1,Enterprise,Financial/Technology (Supply Chain),4,4.5,4.25,0,0,0,1,0,1,0,0,2.2839,2.6809,-0.3971,18.4207,100000000
+hive,1,Enterprise,Healthcare/Finance/Government,4,3,3.5,1,0,1,1,0,0,0,0,3.024,2.5446,0.4794,18.4207,100000000
+darkside,1,Enterprise,Energy/Critical Infrastructure,4,5,4.5,0,0,1,0,0,0,0,0,2.6202,0.7077,1.9125,18.3153,90000000
+avaddon,2,SMB-Enterprise,Cross-Sector,3,3,3,0,0,0,0,0,0,0,1,1.2891,0.8594,0.4297,18.2814,87000000
+alphv,1,Enterprise,Healthcare/Hospitality/Finance,4,4,4,1,0,0,1,0,0,0,0,0.6904,0.8478,-0.1575,18.133,75000000
+maze,1,Enterprise,Manufacturing/Technology,4,3.5,3.75,0,0,0,0,1,1,0,0,2.0412,0.1859,1.8553,18.133,75000000
+darkangels,1,Enterprise,Healthcare (Selective BGH),4,5,4.5,1,0,0,0,0,0,0,0,3.0438,2.3988,0.645,18.133,75000000
+cuba,1,Enterprise,Critical Infrastructure/Finance,4,5,4.5,0,0,1,1,0,0,0,0,3.786,0,3.786,17.9099,60000000
+netwalker,2,SMB,Healthcare/Education/Government,2,4,3,1,1,1,0,0,0,0,0,2.7026,0,2.7026,17.6442,46000000
+doppelpaymer,2,Enterprise,Manufacturing/Healthcare,4,4,4,1,0,0,0,1,0,0,0,2.8506,1.2762,1.5744,17.5532,42000000
+cryptolocker,3,Consumer/Individual,General Public,1,1,1,0,0,0,0,0,0,1,0,1.8182,0.404,1.4141,17.1113,27000000
+dharma,3,SMB,Small Business/RDP-exposed,2,2,2,0,0,0,0,0,0,0,0,3.4421,0,3.4421,16.9936,24000000
+phobos,3,SMB,Small Business/Healthcare/Education,2,2.5,2.25,1,1,0,0,0,0,0,0,4.0816,0,4.0816,16.5881,16000000
+locky,3,Consumer/Individual,General Public,1,1,1,0,0,0,0,0,0,1,0,1.6547,0,1.6547,15.8696,7800000
+cerber,3,Consumer/Individual,General Public,1,1,1,0,0,0,0,0,0,1,0,1.7776,0.5278,1.2498,15.747,6900000
+samsam,2,Enterprise,Healthcare/Government/Education,4,4.5,4.25,1,1,1,0,0,0,0,0,7.1429,1.4286,5.7143,15.5905,5900000
+wannacry,3,Consumer/Individual,General Public (Indiscriminate),1,1,1,0,0,0,0,0,0,1,0,3.5714,0.5952,2.9762,11.8706,143000
+torrentlocker,3,Consumer/Individual,General Public (AU/UK/EU),1,1,1,0,0,0,0,0,0,1,0,3.0043,1.2876,1.7167,9.2104,1000000
+spora,3,Consumer/Individual,General Public,1,1,1,0,0,0,0,0,0,1,0,1.8634,0.6211,1.2422,8.5174,800000
+qlocker,3,Consumer/SMB,NAS Device Owners/QNAP Users,1.5,1.5,1.5,0,0,0,0,0,0,0,0,2.1806,0,2.1806,8.5174,350000
+bianlian,2,Enterprise,Healthcare/Finance (Exfil),4,4.5,4.25,1,0,0,1,0,0,0,0,1.3353,1.7032,-0.3679,6.2166,39300000
+medusa,2,SMB-Enterprise,Healthcare/Government/Education,3,4.5,3.75,1,1,1,0,0,0,0,0,4.1733,1.3911,2.7822,5.994,23500000
+royal,1,Enterprise,Healthcare/Manufacturing/Communications,4,3,3.5,1,0,0,0,1,0,0,0,2.641,0.8803,1.7607,5.8608,69800000
+bitpaymer,2,Enterprise,Enterprise (EvilCorp),4,5,4.5,0,0,0,0,0,0,0,0,4.3424,0.5495,3.793,3.9318,8040000
+embargo,1,Enterprise,Healthcare (New RaaS),4,5,4.5,1,0,0,0,0,0,0,0,2.5131,5.0263,-2.5131,3.7136,34200000
